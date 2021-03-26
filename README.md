@@ -1,2 +1,7 @@
-# zhangchi
-快手技术专家，专注于CRM SaaS 和 Office SaaS 产品与技术架构
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fancylife&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+#### Hello 👏
+
+> I'm zhangchi.  
+
+🔗 https://www.yuque.com/zhangchi-qjghq
