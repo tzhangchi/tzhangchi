@@ -5,8 +5,6 @@
   <img align="left" alt="zhangchi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fancylife&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ![](https://visitor-badge.glitch.me/badge?page_id=fancylife.fancylife)
 
 <br />
@@ -30,6 +28,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📈 My GitHub Stats
 
-
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fancylife&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
