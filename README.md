@@ -1,19 +1,19 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
-  <img align="left" alt="zhangchi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=fancylife.fancylife)
 
-<br />
 
 Hi, I'm [zhangchi](https://www.yuque.com/zhangchi-qjghq), a passionate expert engineer focus on CRM saas and Office saas.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 💬 Ask me about anything, I am happy to help, 📫 How to reach me: [@zhangchi](https://www.yuque.com/zhangchi-qjghq);
+
+![](https://visitor-badge.glitch.me/badge?page_id=fancylife.fancylife) <a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
+  <img  alt="zhangchi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 
 **Languages and Tools:**  
@@ -30,5 +30,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📈 My GitHub Stats
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fancylife&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+
+
+
