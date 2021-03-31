@@ -38,7 +38,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br/>
 
-<hr/>
 
 ### 快手效率工程团队寻找优秀的你
 
