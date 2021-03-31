@@ -37,7 +37,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fancylife&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <hr/>
+
 ### 快手效率工程团队寻找优秀的你
+
 我们是快手效率工程团队，通过企业级应用和效率工具的构建，帮助快手「降本增效」，支撑快手快速发展。同时我们也是快手企业产品对外输出的拓展者，通过优质产品和理念，帮助企业提升协同和管理效率。
 
 请毫不犹豫地往邮箱投递简历，如果有进一步沟通的想法，可以在邮件中向我询问我的微信，简历发送至 zhangchi05@kuaishou.com
