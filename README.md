@@ -10,14 +10,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 💬 Ask me about anything, I am happy to help, 📫 How to reach me: [@zhangchi](https://www.yuque.com/zhangchi-qjghq);
 
-![](https://visitor-badge.glitch.me/badge?page_id=fancylife.fancylife) <a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
+![](https://visitor-badge.glitch.me/badge?page_id=cg0101.cg0101) <a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
   <img  alt="zhangchi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
 📈 My GitHub Stats
 
-<img align="left" style="display:block;width:500px;" src="https://github-readme-stats.vercel.app/api?username=fancylife&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="left" style="display:block;width:500px;" src="https://github-readme-stats.vercel.app/api?username=cg0101&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 **Languages and Tools:**  
 
