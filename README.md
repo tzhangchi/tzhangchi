@@ -8,7 +8,7 @@ Hi, I'm [zhangchi](https://www.yuque.com/zhangchi1024), a passionate expert engi
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-💬 Ask me about anything, I am happy to help, 📫 How to reach me: [@zhangchi](https://www.yuque.com/zhangchi-qjghq);
+💬 Ask me about anything, I am happy to help, 📫 How to reach me: [@zhangchi](https://www.yuque.com/zhangchi1024);
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cg0101.cg0101) <a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
   <img  alt="zhangchi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
