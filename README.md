@@ -4,7 +4,7 @@
 
 
 
-Hi, I'm [Zhang chi](https://twitter.com/Terrychinaz), a passionate expert engineer focus on CRM SaaS and Productivity SaaS.
+Hi, I'm [Chi Zhang](https://twitter.com/Terrychinaz), a passionate expert engineer focus on CRM SaaS and Productivity SaaS.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
