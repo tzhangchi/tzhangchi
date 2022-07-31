@@ -4,14 +4,14 @@
 
 
 
-Hi, I'm [Chi Zhang](https://twitter.com/Terrychinaz), a passionate expert engineer focus on Productivity SaaS.
+Hi, I'm [Chi Zhang](https://twitter.com/Terrychinaz), the founder of Ecd, is a continuous entrepreneur who loves to create beautiful and scalable services for hundreds of millions of users through technology.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 💬 Ask me about anything, I am happy to help, 📫 How to reach me: [@chizhang](https://twitter.com/Terrychinaz);
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cg0101.cg0101) <a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
-  <img  alt="Terry Zhang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="Chi Zhang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
