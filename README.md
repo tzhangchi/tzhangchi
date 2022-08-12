@@ -1,15 +1,16 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Chi Zhang](https://twitter.com/Terrychinaz), the founder of ECD, a continuous entrepreneur who loves to create beautiful and scalable services for hundreds of millions of users through technology.
+Hi,  I'm [Chi Zhang](https://twitter.com/Terrychinaz), a continuous entrepreneur who loves to create beautiful and scalable services for hundreds of millions of users through technology.
 
-Currently, working for [AFFiNE](https://github.com/toeverything/AFFiNE) as the head of the engineer, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+I am an open-source enthusiast and maintainer currently working for [AFFiNE](http://affine.pro/) as a Cofounder & Head of engineering. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
 💬 Ask me about anything, I am happy to help; 📫 How to reach me: [@chizhang](https://twitter.com/Terrychinaz);
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cg0101.cg0101) <a href="https://www.linkedin.com/in/%E9%A9%B0-%E5%BC%A0-60669710a/">
   <img  alt="Chi Zhang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 
 
