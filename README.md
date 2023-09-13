@@ -7,7 +7,7 @@ I am an open-source enthusiast and maintainer currently working for [AFFiNE](htt
 
 💬 Ask me about anything, I am happy to help; 📫 How to reach me: [@chizhang](https://twitter.com/Terrychinaz);
 
-![](https://visitor-badge.glitch.me/badge?page_id=cg0101.cg0101) <a href="https://www.linkedin.com/in/chi-zhang-60669710a/">
+![](https://visitor-badge.glitch.me/badge?page_id=cg0101.cg0101) <a href="https://www.linkedin.com/in/chizhang-link/">
   <img  alt="Chi Zhang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
