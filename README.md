@@ -7,7 +7,7 @@ I am an open-source enthusiast and maintainer currently working for [AFFiNE](htt
 
 💬 Ask me about anything, I am happy to help; 📫 How to reach me: [@chizhang](https://twitter.com/Terrychinaz);
 
-linkedin:  https://www.linkedin.com/in/chizhang-link/
+linkedin:  https://www.linkedin.com/in/terryzhang-link/
 
 
 
