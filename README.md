@@ -5,7 +5,7 @@ Hi,  I'm [Terry Zhang](https://twitter.com/Terrychinaz), a continuous entreprene
 
 I am an open-source enthusiast and maintainer previously worked for [AFFiNE](http://affine.pro/) as a Cofounder & CTO. I learned a lot from the open-source community, and I love how collaboration software and infrastructure happened through open-source.
 
-💬 Ask me about anything, I am happy to help; 📫 How to reach me: [@chizhang](https://twitter.com/Terrychinaz);
+💬 Ask me about anything, I am happy to help; 📫 How to reach me: [@TerryZhang](https://twitter.com/Terrychinaz);
 
 linkedin:  https://www.linkedin.com/in/terryzhang-link/
 
