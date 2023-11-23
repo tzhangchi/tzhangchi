@@ -1,20 +1,15 @@
+### Hello World! 👋
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello! I'm [Terry Zhang](https://twitter.com/Terrychinaz), currently leading the charge as the Founder/CEO of an innovative AI startup. My technological journey is driven by an unwavering passion for developing services that not only have a wide-reaching impact but also meaningfully touch the lives of millions.
 
-Hi,  I'm [Terry Zhang](https://twitter.com/Terrychinaz), a continuous entrepreneur who loves to create beautiful and scalable services for hundreds of millions of users through technology.
+At the heart of my journey lies my tenure as Co-founder & CTO at [AFFiNE](http://affine.pro/), a role that allowed me to immerse myself in the vibrant open-source community. This experience was pivotal in nurturing my skills in fostering collaborative, innovative software and infrastructure development. Before this, I honed my engineering prowess at [ShareCRM.com](http://sharecrm.com) and [Fxiaoke.com](http://fxiaoke.com), where I contributed to the creation of groundbreaking technology solutions. These roles have been instrumental in shaping my current entrepreneurial and technological outlook. 
 
-I am an open-source enthusiast and maintainer previously worked for [AFFiNE](http://affine.pro/) as a Cofounder & CTO. I learned a lot from the open-source community, and I love how collaboration software and infrastructure happened through open-source.
+💬 Feel free to ask me about anything, especially AI, entrepreneurship, and open-source. I'm always keen to lend a hand or share insights. 📫 You can reach me on Twitter: [@TerryZhang](https://twitter.com/Terrychinaz);
 
-💬 Ask me about anything, I am happy to help; 📫 How to reach me: [@TerryZhang](https://twitter.com/Terrychinaz);
-
-linkedin:  https://www.linkedin.com/in/terryzhang-link/
-
+Connect with me on LinkedIn: https://www.linkedin.com/in/terryzhang-link/
 
 
-
-
-**Languages and Tools:**  
-
+**Languages and Tools I Love Working With:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
@@ -30,6 +25,4 @@ linkedin:  https://www.linkedin.com/in/terryzhang-link/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux
