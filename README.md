@@ -2,8 +2,6 @@
 
 Hello! I'm [Terry Zhang](https://twitter.com/Terrychinaz), currently leading the charge as the founder of of [Aregrid](https://aregrid.com), an innovative AI startup. My technological journey is driven by an unwavering passion for developing services that not only have a wide-reaching impact but also meaningfully touch the lives of billions.
 
-At the heart of my journey lies my tenure as co-founder/CTO at [affine.pro](http://affine.pro/), a role that allowed me to immerse myself in the vibrant open-source community. This experience was pivotal in nurturing my skills in fostering collaborative, innovative software and infrastructure development. Before this, I honed my engineering prowess at [ShareCRM](http://sharecrm.com) and [Kuaishou](http://kuaishou.com), where I contributed to the creation of groundbreaking technology solutions. These roles have been instrumental in shaping my current entrepreneurial and technological outlook. 
-
 💬 Feel free to ask me about anything, especially AI, entrepreneurship, and open-source. I'm always keen to lend a hand or share insights. 📫 You can reach me on Twitter: [@TerryZhang](https://twitter.com/Terrychinaz);
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/terryzhang-link/
