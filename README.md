@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Hello! I'm [Terry Zhang](https://twitter.com/Terrychinaz), currently leading the charge as the founder of of [Aregrid](https://aregrid.com), an innovative AI startup. My technological journey is driven by an unwavering passion for developing services that not only have a wide-reaching impact but also meaningfully touch the lives of billions.
+Hello! I'm [Terry Zhang](https://twitter.com/Terrychinaz), currently leading the charge as the founder of of [LlamaGen.Ai](https://llamagen.ai/), an innovative AI startup. My technological journey is driven by an unwavering passion for developing services that not only have a wide-reaching impact but also meaningfully touch the lives of billions.
 
 💬 Feel free to ask me about anything, especially AI, entrepreneurship, and open-source. I'm always keen to lend a hand or share insights. 📫 You can reach me on Twitter: [@TerryZhang](https://twitter.com/Terrychinaz);
 
