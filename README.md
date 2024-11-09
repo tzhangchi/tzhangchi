@@ -1,8 +1,16 @@
 ### Hello World! 👋
 
-Hello! I'm [Terry Zhang](https://twitter.com/Terrychinaz), currently leading the charge as the founder of of [LlamaGen.Ai](https://llamagen.ai/), an innovative AI startup. My technological journey is driven by an unwavering passion for developing services that not only have a wide-reaching impact but also meaningfully touch the lives of billions.
+Hello! I’m [Terry Zhang](https://x.com/terryzhang101), founder of [LlamaGen.AI](https://llamagen.ai), where we’re transforming the future of digital creativity and storytelling with artificial intelligence. My journey has been driven by a commitment to developing impactful, accessible AI solutions that can meaningfully touch the lives of billions.
 
-💬 Feel free to ask me about anything, especially AI, entrepreneurship, and open-source. I'm always keen to lend a hand or share insights. 📫 You can reach me on Twitter: [@TerryZhang](https://twitter.com/Terrychinaz);
+Our Vision
+At LlamaGen.AI, we aim to blend human creativity with AI to craft immersive storytelling experiences. Our goal is to become the next interactive Pixar, breaking boundaries across animation, gaming, and video. We see a future where creating stories, comics, animations, and games is as intuitive as designing in PowerPoint. As content creation and marketing converge over the next decade, we’re leading the way by streamlining the creative process, fostering inclusivity, and pushing the industry forward.
+
+LlamaGen.AI is not just a company—it’s a movement empowering creators worldwide. We’re excited about the stories we’ll help bring to life, and if you share our vision, we’d love to connect!
+
+Our Culture
+We’re a flat, unified team transcending traditional roles across engineering, research, product, finance, and operations. Everyone at LlamaGen.AI is committed to doing what it takes to make our company and our customers successful. We believe a small, dedicated team with a collaborative culture can move faster and build more cohesive products than larger hierarchical organizations. We provide mentorship and support to help each team member grow with the company and achieve ambitious career goals.
+
+💬 Feel free to ask me about anything, especially AI, entrepreneurship, and open-source. I'm always keen to lend a hand or share insights. 📫 You can reach me on Twitter: [@TerryZhang](https://x.com/terryzhang101);
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/terryzhang-link/
 
